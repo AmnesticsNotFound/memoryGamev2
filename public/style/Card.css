@@ -1,0 +1,12 @@
+.img {
+    max-width:500px;
+    width:20vw;
+    height:20vw;
+    max-height:500px;
+    border-style:ridge;
+}
+.card {
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}

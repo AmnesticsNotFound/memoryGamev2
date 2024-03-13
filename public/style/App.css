@@ -1,0 +1,15 @@
+.header {
+  display:flex;
+  align-items: center;
+  justify-content:space-between;
+  /*border-style:solid;*/
+}
+
+.cards {
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+body {
+  background-color:rgb(15, 2, 80);
+  color:white;
+}
