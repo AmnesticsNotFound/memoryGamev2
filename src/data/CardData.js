@@ -1,6 +1,6 @@
 let cardData= [{
     name:"Crimson Bellied Conure",
-    src: "https://tinyurl.com/crimsonBellyConure",
+    src: "https://i.imgur.com/36HynDq.png",
     isClicked: false,
 },
 {
