@@ -5,37 +5,37 @@ let cardData= [{
 },
 {
     name:"Sun Conure",
-    src: "https://tinyurl.com/yt5v8ydr",
+    src: "https://i.imgur.com/t4JrfDz.jpeg",
     isClicked: false,
 },
 {
     name:"Bronze Winged Pionus",
-    src: "https://tinyurl.com/bronzePionus",
+    src: "https://i.imgur.com/tYR9CE6.jpeg",
     isClicked: false,
 },
 {
     name:"Indian Ringneck Parakeet",
-    src: "https://tinyurl.com/ringneckParakeet",
+    src: "https://i.imgur.com/BRRVmhl.jpeg",
     isClicked: false,
 },
 {
     name:"Hahn's Macaw",
-    src: "https://tinyurl.com/hahnsMacaw",
+    src: "https://i.imgur.com/mcENtbQ.jpeg",
     isClicked: false,
 },
 {
     name:"Hyacinth Macaw",
-    src: "https://tinyurl.com/hycanithMacaw",
+    src: "https://i.imgur.com/MtnLJuY.jpeg",
     isClicked: false,
 },
 {
     name:"Hawk-Headed Parrot",
-    src: "https://tinyurl.com/hawkPArrot",
+    src: "https://i.imgur.com/5TjBgwb.png",
     isClicked: false,
 },
 {
     name:"Galah",
-    src: "https://tinyurl.com/5y8th4wn",
+    src: "https://i.imgur.com/JdEUIqH.jpeg",
     isClicked: false,
 },
 ];
