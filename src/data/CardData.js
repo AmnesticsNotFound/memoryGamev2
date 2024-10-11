@@ -30,7 +30,7 @@ let cardData= [{
 },
 {
     name:"Hawk-Headed Parrot",
-    src: "https://i.imgur.com/5TjBgwb.png",
+    src: "https://i.imgur.com/PGs3StT.jpeg",
     isClicked: false,
 },
 {
